@@ -1,1 +1,2 @@
-# VIN-App
+# VIN App
+Vehicle Identification Number decoder
